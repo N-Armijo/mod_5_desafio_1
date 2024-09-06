@@ -1,5 +1,3 @@
-import Impuesto from './Impuesto.js';
-
 class Cliente {
     #nombre;
     #impuesto;
